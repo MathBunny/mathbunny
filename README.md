@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Horatiu Lazu** 🇨🇦 🇷🇴, 22 years old and an incoming Software Engineer at Facebook. I am a firm believer in fundamentals 📖, always looking to learn and grow my skillset 📈. Feel free to reach out to me 📧!
+I am **Horatiu Lazu** 🇨🇦 🇷🇴, 22 years old and a Software Engineer at Facebook in NYC. I am a firm believer in fundamentals 📖, always looking to learn and grow my skillset 📈. Feel free to reach out to me 📧!
 
 ##### [Website](http://horatiulazu.ca) - [Blog](http://horatiulazu.ca/blog) - [LinkedIn](https://www.linkedin.com/in/horatiulazu/) - [Stack Overflow](https://stackoverflow.com/users/6381516/mathbunny?tab=profile) - [YouTube](https://www.youtube.com/user/ComputerBunnyMath123) - [Quora](https://www.quora.com/profile/Horatiu-Lazu) - [Strava](https://www.strava.com/athletes/6214103)
 
